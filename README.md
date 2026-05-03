@@ -139,13 +139,3 @@ Raman Deep Shiva Murthy
 MS Computer Science, Boston University
 
 ---
-
-## ⭐ Acknowledgments
-
-This project is inspired by recent research in generative model evaluation and OOD detection.
-
----
-
-## 📜 License
-
-MIT License
