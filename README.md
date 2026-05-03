@@ -105,7 +105,6 @@ Default setup uses:
 
 * Replace VAE with Flow-based models (Glow)
 * Use DINOv2 embeddings for feature extraction
-* Reproduce full paper-level experiments
 * Extend to real-world anomaly detection tasks
 
 ---
