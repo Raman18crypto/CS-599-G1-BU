@@ -50,29 +50,6 @@ Robust evaluation metrics that:
 | `lr_plot.png`         | Likelihood Regret separation        |
 | `robustness_plot.png` | Clipped metrics robustness          |
 
-## ⚙️ Installation
-
-```bash
-pip install torch torchvision matplotlib scikit-learn numpy
-```
-
----
-
-## 🚀 Running the Project
-
-```bash
-python main.py
-```
-
-This will:
-
-* Train a VAE model
-* Compute likelihood scores
-* Compute Likelihood Regret
-* Generate plots
-
----
-
 ## 📂 Output
 
 After running, the following files will be generated:
