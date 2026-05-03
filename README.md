@@ -111,7 +111,7 @@ Default setup uses:
 
 ## 👤 Author
 
-Raman Deep Shiva Murthy\n
+Raman Deep Shiva Murthy/n
 MS Computer Science, Boston University
 
 ---
